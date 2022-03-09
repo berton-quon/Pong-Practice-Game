@@ -1,0 +1,83 @@
+﻿using System;
+using GDIDrawer;
+using System.Drawing;
+
+
+namespace Lab_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int borderTop;              //creates top border
+            int borderRight;            //creates right border
+            int borderBottom;           //creates bottom border
+            int xBall;                  //x position of ball
+            int yBall;                  //y position of ball
+            int xVelocityInitial;       //initial velocity in x direction
+            int yVelocityInitial;       //initial velocity in y direction 
+
+
+            //create game window
+            CDrawer canvas = new CDrawer();
+            canvas.Scale = 5;
+
+            //create top border
+            for (borderTop = 0; borderTop < 160; borderTop++)
+            {
+                canvas.SetBBScaledPixel(borderTop, 0, Color.Blue);
+            }
+ 
+            //create right border
+            for (borderRight = 0; borderRight < 120; borderRight++)
+            {
+                canvas.SetBBScaledPixel(159, borderRight, Color.Blue);
+            }
+
+            //create bottom border
+            for (borderBottom = 0; borderBottom < 160; borderBottom++)
+            {
+                canvas.SetBBScaledPixel(borderBottom, 119, Color.Blue);
+            }
+
+            //add start button 
+
+
+            //generate ball at random location (located on R side of screen to start further away from paddle)
+            Random rand = new Random();
+            xBall = rand.Next(50, 159);
+            yBall = rand.Next(1, 119);
+            while (xBall > 0 && xBall < 160 )
+            {
+                canvas.Clear();
+                canvas.AddEllipse(xBall, yBall, 2, 2, Color.Red);
+                System.Threading.Thread.Sleep(50);
+                xBall++;
+                yBall++;
+            }
+
+            //add initial velocity to  ball
+
+            //add criteria for when it 'hits' walls and following action
+
+            //while (
+
+
+            //location = border locations 
+            //change direction
+
+            //add paddle using Y movement of mouse
+
+            //integrate scoring system
+
+            //display score and option to play again or quit
+
+
+
+            Console.ReadLine();
+
+  
+            
+        }
+    }
+}

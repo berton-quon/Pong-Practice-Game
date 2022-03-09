@@ -1,0 +1,27 @@
+C:\Users\berto\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\berto\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\berto\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\berto\source\repos\Lab 2\Lab 2\bin\Debug\GDIDrawer.dll
+C:\Users\berto\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\berto\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\berto\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
+C:\Users\berto\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\berto\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\GDIDrawer.dll
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+D:\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\bin\Debug\GDIDrawer.dll
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb

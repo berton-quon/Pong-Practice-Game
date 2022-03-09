@@ -1,0 +1,46 @@
+﻿using System;
+using GDIDrawer;
+using System.Drawing;
+
+
+namespace Lab_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int borderTop;              //creates top border
+            int borderRight;            //creates right border
+            int borderBottom;           //creates bottom border
+
+            //create game window
+            CDrawer canvas = new CDrawer();
+            canvas.Scale = 5;
+            //create top border
+            for (borderTop = 0; borderTop < 160; borderTop++)
+            {
+                canvas.SetBBScaledPixel(borderTop, 0, Color.Blue);
+            }
+            
+            //create right border
+            for (borderRight = 0; borderRight < 120; borderRight++)
+            {
+                canvas.SetBBScaledPixel(159, borderRight, Color.Blue);
+            }
+
+            //create bottom border
+            for (borderBottom = 0; borderBottom < 160; borderBottom++)
+            {
+                canvas.SetBBScaledPixel(borderBottom, 119, Color.Blue);
+            }
+
+
+            canvas.AddRectangle(10, 10, 2, 2);
+
+            Console.ReadLine();
+
+  
+            
+        }
+    }
+}

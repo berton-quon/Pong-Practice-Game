@@ -1,0 +1,25 @@
+﻿using System;
+using GDIDrawer;
+using System.Drawing;
+
+
+namespace Lab_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            //create game window
+            CDrawer canvas = new CDrawer();
+            canvas.Scale = 5;
+            canvas.SetBBScaledPixel(0, 0, Color.Blue);
+            canvas.AddRectangle(10, 10, 2, 2);
+
+            Console.ReadLine();
+
+  
+            
+        }
+    }
+}
