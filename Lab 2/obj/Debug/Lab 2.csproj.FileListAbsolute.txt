@@ -25,3 +25,11 @@ E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamental
 E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
 E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
 E:\Computer Back Up Files\Backed Up Courses\Nait Courses\CMPE 1300 - Fundamentals to Programming\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+D:\GitHub Projects\Pong Practice Game\Lab 2\bin\Debug\Lab 2.exe.config
+D:\GitHub Projects\Pong Practice Game\Lab 2\bin\Debug\Lab 2.exe
+D:\GitHub Projects\Pong Practice Game\Lab 2\bin\Debug\Lab 2.pdb
+D:\GitHub Projects\Pong Practice Game\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+D:\GitHub Projects\Pong Practice Game\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Pong Practice Game\Lab 2\obj\Debug\Lab 2.csproj.CopyComplete
+D:\GitHub Projects\Pong Practice Game\Lab 2\obj\Debug\Lab 2.exe
+D:\GitHub Projects\Pong Practice Game\Lab 2\obj\Debug\Lab 2.pdb
