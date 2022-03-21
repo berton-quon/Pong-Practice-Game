@@ -1,12 +1,10 @@
-﻿//******************************************************************
-//Berton Quon CMPE 1300 Lab 2
-//******************************************************************
+﻿
 
 using System;
 using GDIDrawer;
 using System.Drawing;
 
-namespace Lab_2
+namespace PongPractice
 {
     class Program
     { 
@@ -20,6 +18,7 @@ namespace Lab_2
             int yStart;                 //starting direction of yBall
             int xVel;                   //x velocity of ball (constant velocity)
             int yVel;                   //y velocity of ball (constant velocity)
+            int speedIncrease;          //increase speed of ball after every 5 points
             int startClick;             //do-while loop to start game
             bool startGame;             //boolean to get mouse click to reset game
             int score;                  //score counter
@@ -56,6 +55,7 @@ namespace Lab_2
                 xVel = 1;
                 yVel = 1;
                 score = 0;
+                speedIncrease = 0;
                 startClick = 0;
                 postGameClick = 0;
 
@@ -113,6 +113,12 @@ namespace Lab_2
                     {
                         xVel = -xVel; //change direction of ball
                         score++; //add to score counter
+                        speedIncrease++;
+                        if (speedIncrease == 3)
+                        {
+                            xVel++;
+                            speedIncrease = 0;
+                        }
                     }
                 }
 
